@@ -2,4 +2,4 @@
 
 # checking if this works
 
-just a demo repo.
+just a demo repo!
